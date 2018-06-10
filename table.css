@@ -1,4 +1,22 @@
-table tr td:hover
+table tr:hover
 {
     background: #3de1ff;
+}
+table {
+    background: beige;
+    color: black;
+    }
+table {
+    width: 100px;
+
+    border-spacing: 7px;
+}
+table
+{
+    border-collapse: collapse;
+}
+abbr
+{
+    border-bottom: #ff672c;
+    color: blue;
 }
